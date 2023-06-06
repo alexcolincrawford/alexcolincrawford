@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently learning Web Development through the [Odin Project](https://www.theodinproject.com/)
+- ⚡ Current Course: Foundations | The Odin Project
