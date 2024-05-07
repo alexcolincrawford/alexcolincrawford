@@ -10,4 +10,10 @@ I am a motivated final-year undergraduate student who's excited to combine my ac
 - 💼 I am eager to apply my skills in threat detection, incident response, and security monitoring to contribute effectively in a professional SOC environment.
 - 🔍 My goal is to continuously learn and grow in cybersecurity.
 
+## Projects
+
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| Vulnerability Analysis (Nessus)          | <a href="https://github.com/alexcolincrawford/vulnerability-analysis">Vulnerability Analysis & Remediation via Nessus</a>|
+
 Feel free to reach out to me via [email](mailto:alexcolincrawford@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/alex-crawford-2a88a4254/)!
