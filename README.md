@@ -8,7 +8,7 @@ I am a motivated final-year undergraduate student who's excited to combine my ac
 
 - 🎓 I hold a strong academic foundation in cybersecurity.
 - 💼 I am eager to apply my skills in threat detection, incident response, and security monitoring to contribute effectively in a professional SOC environment.
-- 🔍 My goal is to continuously learn and grow in cybersecurity.
+- 🔍 My goal is to continuously learn and advance in cybersecurity, aiming to become a skilled security analys
 
 ## Projects
 
