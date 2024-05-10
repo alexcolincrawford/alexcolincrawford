@@ -15,5 +15,6 @@ I am a motivated final-year undergraduate student who's excited to combine my ac
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Vulnerability Analysis (Nessus)          | <a href="https://github.com/alexcolincrawford/vulnerability-analysis">Vulnerability Analysis & Remediation via Nessus</a>|
+| Azure Sentinel          | <a href="https://github.com/alexcolincrawford/Azure-Sentinel-SIEM">Building a Honeypot with Azure Sentinel</a>|
 
 Feel free to reach out to me via [email](mailto:alexcolincrawford@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/alex-crawford-2a88a4254/)!
