@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-crawford-2a88a4254/)
 
-I am a motivated final-year undergraduate student who's excited to combine my academic background and hands-on skills to make a meaningful impact in the cybersecurity field, with a specific focus on joining a Security Operations Center (SOC) as a Tier 1 Analyst.
+I am a motivated final-year undergraduate student who's excited to combine my academic background and hands-on skills to make a meaningful impact in the cybersecurity field, with a specific focus on joining a Security Operations Center (SOC) as a Junior Analyst.
 
 ## About Me
 
