@@ -14,6 +14,7 @@ I am a recent cyber security graduate who's excited to combine my academic backg
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| Web Development          | <a href="https://github.com/alexcolincrawford/alexcolincrawford.io">Portfolio Website</a>|
 | Vulnerability Analysis (Nessus)          | <a href="https://github.com/alexcolincrawford/vulnerability-analysis">Vulnerability Analysis & Remediation via Nessus</a>|
 | Azure Sentinel          | <a href="https://github.com/alexcolincrawford/Azure-Sentinel-SIEM">Building a Honeypot with Azure Sentinel</a>|
 
