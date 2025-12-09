@@ -7,7 +7,7 @@ I am a recent cyber security graduate who's excited to combine my academic backg
 ## About Me
 
 - 🎓 I hold a strong academic foundation in cybersecurity.
-- 💼 I am eager to apply my skills in threat detection, incident response, and security monitoring to contribute effectively in a professional SOC environment.
+- 💼 I am eager to apply my skills in threat detection, incident response, and security monitoring to contribute effectively in a professional cyber security environment.
 - 🔍 My goal is to continuously learn and advance in cybersecurity, aiming to become a skilled security analyst.
 
 ## Projects
