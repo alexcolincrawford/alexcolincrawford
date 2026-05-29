@@ -19,7 +19,8 @@ First Class Honours Cyber Security graduate and current Collections Specialist, 
 | Vulnerability Analysis (Nessus)          | <a href="https://github.com/alexcolincrawford/vulnerability-analysis">Vulnerability Analysis & Remediation via Nessus</a>|
 | Azure Sentinel          | <a href="https://github.com/alexcolincrawford/Azure-Sentinel-SIEM">Building a Honeypot with Azure Sentinel</a>|
 
-Tech & Tools
+Tech & Tools: 
+
 Microsoft Sentinel · Nessus · TryHackMe · PowerShell · Windows · HTML/CSS · Linux · Kali Linix · Python · JaveScript · Digital Forensics · Reverse Engineering
 
 Feel free to reach out to me via [email](mailto:alexcolincrawford@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/alex-crawford-2a88a4254/)
