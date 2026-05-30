@@ -15,7 +15,7 @@ First Class Honours Cyber Security graduate and current Collections Specialist, 
 
 | Skill | Associated Project | Status |
 |-------|--------------------|--------|
-| SIEM, Detection Engineering, KQL, MITRE ATT&CK, Sysmon | <a href="https://github.com/alexcolincrawford/mitre-attack-sentinel-detection-lab">SOC Detection Lab — MITRE ATT&CK on Microsoft Sentinel</a> | 🚧 WIP|
+| SIEM, Detection Engineering, KQL, MITRE ATT&CK, Sysmon | <a href="https://github.com/alexcolincrawford/mitre-attack-sentinel-detection-lab">SOC Detection Lab: MITRE ATT&CK on Microsoft Sentinel</a> | 🚧 WIP|
 | Threat Detection, Honeypot, Log Analysis | <a href="https://github.com/alexcolincrawford/Azure-Sentinel-SIEM">Building a Honeypot with Azure Sentinel</a> | ✅ Complete |
 | Vulnerability Analysis & Remediation (Nessus) | <a href="https://github.com/alexcolincrawford/vulnerability-analysis">Vulnerability Analysis & Remediation via Nessus</a> | ✅ Complete |
 | Web Development (HTML/CSS/JS) | <a href="https://alexcolincrawford.github.io/alexcolincrawford.io/">Portfolio Website</a> | ✅ Complete |
