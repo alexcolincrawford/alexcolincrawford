@@ -22,6 +22,6 @@ First Class Honours Cyber Security graduate and current Collections Specialist, 
 
 Tech & Tools: 
 
-Microsoft Sentinel · Nessus · TryHackMe · Wireshark · Kali Linux · Linux · Windows · PowerShell · Bash · Python · JavaScript · HTML/CSS · VMware · VirtualBox · Metasploit · Metasploitable · Azure · Log Analytics · KQL · MITRE ATT&CK · Digital Forensics · Reverse Engineering · Incident Response · Threat Intelligence · MITRE ATT&CK
+Microsoft Sentinel · Microsoft Defender · KQL · Sysmon · Atomic Red Team · MITRE ATT&CK · Azure · Azure Arc · Log Analytics · Nessus · Wireshark · Kali Linux · Metasploit · Metasploitable · TryHackMe · Active Directory · VMware · VirtualBox · PowerShell · Bash · Python · JavaScript · HTML/CSS · Windows · Linux · Incident Response · Threat Intelligence
 
 Feel free to reach out to me via [email](mailto:alexcolincrawford@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/alex-crawford-2a88a4254/)
