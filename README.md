@@ -15,9 +15,9 @@ First Class Honours Cyber Security graduate and current Collections Specialist, 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Web Development          | <a href="https://alexcolincrawford.github.io/alexcolincrawford.io/">Portfolio Website</a>|
-| Vulnerability Analysis (Nessus)          | <a href="https://github.com/alexcolincrawford/vulnerability-analysis">Vulnerability Analysis & Remediation via Nessus</a>|
 | Azure Sentinel          | <a href="https://github.com/alexcolincrawford/Azure-Sentinel-SIEM">Building a Honeypot with Azure Sentinel</a>|
+| Vulnerability Analysis (Nessus)          | <a href="https://github.com/alexcolincrawford/vulnerability-analysis">Vulnerability Analysis & Remediation via Nessus</a>|
+| Web Development          | <a href="https://alexcolincrawford.github.io/alexcolincrawford.io/">Portfolio Website</a>|
 
 Tech & Tools: 
 
